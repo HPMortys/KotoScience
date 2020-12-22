@@ -33,3 +33,7 @@
 * Візуалізація. Існує інтеграція з `Tensorboard`, проте для простішого використання з меншим функціоналом є `visdom`. Крім названих інструментів, можна використовувати стандартні засоби візуалізації - `matplotlib` і `seaborn`.
 
 Frontend: Flask
+
+## Timeline
+
+![timeline](https://github.com/shooterdimon/KotoScience/blob/main/timeline/timeline.png)
